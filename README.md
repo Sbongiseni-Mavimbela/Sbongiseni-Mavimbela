@@ -27,7 +27,7 @@ I am a dedicated professional with a passion for continuous learning and growth.
  Troubleshooting (Hardware diagnostics, software troubleshooting, issue resolution), Remote Support Tools (AnyDesk), Software and Hardware Installation, Microsoft Office Suite.
 - **Other**: Database Management, System Analysis
 
-## 🛠️ Soft Skills
+ Soft Skills
 - **Teamwork**
 - **Problem Solving**
 - **Communication**
