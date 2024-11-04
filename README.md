@@ -38,16 +38,16 @@ Here are some projects I’ve worked on:
 
 1. **Project Name** - *Onnetse Cake Corner Website*
    - [Onnetse's Website](https://www.onnetsecakescorner.co.za/)
-   - Skills Used: HTML, CSS, JavaScript
+   - Skills Used: HTML, CSS, and JavaScript
 
-2. **Another Project** - *Website template*
-   - [GitHub Repository](https://github.com/yourusername/anotherproject)
-   - Skills Used: Java, Database Management
-
-*(Feel free to add more projects as needed)*
+2. **Another Project** - *Website templates*
+   - [Travel-Booking Template](https://sbongiseni-mavimbela.github.io/-Travel-Agency-Booking-)
+   - [Tour Template](https://sbongiseni-mavimbela.github.io/Tour/)
+   - [Destination-Platform Template](https://sbongiseni-mavimbela.github.io/Destination-Platform/)
+   - Skills Used: Java, CSS, and HTML
 
 ## 📫 How to Reach Me
-- [LinkedIn](linkedin.com/in/sbongiseni-mavimbela-2a1446292)  
+- [LinkedIn](https://www.linkedin.com/in/sbongiseni-mavimbela-2a1446292)  
 - [GitHub](https://github.com/Sbongiseni-Mavimbela)  
 - [Email](sbongisenismara@gmail.com)
 
