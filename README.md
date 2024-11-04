@@ -49,5 +49,5 @@ Here are some projects I’ve worked on:
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/sbongiseni-mavimbela-2a1446292)  
 - [GitHub](https://github.com/Sbongiseni-Mavimbela)  
-- [Email](sbongisenismara@gmail.com)
+- [Email](mailto:sbongisenismara@gmail.com)
 
