@@ -21,13 +21,13 @@ I'm a dedicated professional with a passion for continuous learning and growth. 
 
 ## 🛠️ Skills
 - **Programming**: 
-  -  HTML, CSS, Bootstrap, JavaScript Libraries,SQL (Structured Query Language)
+  -  HTML, CSS, Bootstrap, JavaScript Libraries, SQL (Structured Query Language)
 - **Web Development**: 
   - Responsive Design, User Interface (UI) Design, Contact Information Display, and User Interface (UI) Design
 - **IT Support**:
   - Operating Systems (Windows), Networking (LAN/WAN, TCP/IP, DNS Configuration),
  Troubleshooting (Hardware diagnostics, software troubleshooting, issue resolution), Remote Support Tools (AnyDesk), Software and Hardware Installation, Microsoft Office Suite.
-- **Other**: Database Management, System Analysis
+- **Other**: System Analysis
 
  Soft Skills
 - **Teamwork**
