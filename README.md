@@ -51,6 +51,6 @@ https://sbongiseni-mavimbela.github.io/Tour-Travel-Showcase/
    -Skills Used: HTML, CSS, Bootstrap, JavaScript Libraries, User Interface (UI) Design, Contact Information Display, User Interface (UI) Design, and Newsletter Integration.
 
 ## 📫 How to Reach Me 
-- [Phone No:](082 384 3930)  
-- [Email] (mailto:sbongisenismara@gmail.com)
+- [Phone No:] (082 384 3930)  
+- [Email] (sbongisenismara@gmail.com)
 
