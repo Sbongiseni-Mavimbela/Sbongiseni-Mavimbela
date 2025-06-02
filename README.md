@@ -20,9 +20,12 @@ I'm a dedicated professional with a passion for continuous learning and growth. 
   - Used GitHub for version control and project collaboration.
 
 ## 🛠️ Skills
-- **Programming**: HTML, CSS, JavaScript
-- **Web Development**: Responsive Design
-- **IT Support**: Operating Systems (Windows), Networking (LAN/WAN, TCP/IP, DNS Configuration),
+- **Programming**: 
+  -  HTML, CSS, Bootstrap, JavaScript Libraries
+- **Web Development**: 
+  - Responsive Design, User Interface (UI) Design, Contact Information Display, and User Interface (UI) Design
+- **IT Support**:
+  - Operating Systems (Windows), Networking (LAN/WAN, TCP/IP, DNS Configuration),
  Troubleshooting (Hardware diagnostics, software troubleshooting, issue resolution), Remote Support Tools (AnyDesk), Software and Hardware Installation, Microsoft Office Suite.
 - **Other**: Database Management, System Analysis
 
@@ -40,13 +43,13 @@ Here are some projects I’ve worked on:
    - Skills Used: HTML, CSS, Bootstrap, JavaScript Libraries, User Interface (UI) Design, Contact Information Display, and User Interface (UI) Design.
 
 2. **Project Name** - *Clean Kicks Sneakers Website*
- - [Lunga's Website](https://sbongiseni-mavimbela.github.io/Lunga_Website/)
+   - [Lunga's Website](https://sbongiseni-mavimbela.github.io/Lunga_Website/)
    - Skills Used: HTML, CSS, Bootstrap, JavaScript Libraries, User Interface (UI) Design, Contact Information Display, and User Interface (UI) Design.
 
 3. **Another Project** - *Website templates*
    - [Hotel-Booking Template](https://sbongiseni-mavimbela.github.io/Hotel-Booking-Agence/)
    - [Tour Travel Template](https://sbongiseni-mavimbela.github.io/Tour-Travel-Showcase/)
-   -Skills Used: HTML, CSS, Bootstrap, JavaScript Libraries, User Interface (UI) Design, Contact Information Display, User Interface (UI) Design, and Newsletter Integration.
+   - Skills Used: HTML, CSS, Bootstrap, JavaScript Libraries, User Interface (UI) Design, Contact Information Display, User Interface (UI) Design, and Newsletter Integration.
 
 ## 📫 How to Reach Me 
 - [Phone No:] (082 384 3930)  
