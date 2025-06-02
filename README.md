@@ -3,7 +3,7 @@
 # Hi, I'm Sibongiseni Mavimbela! 👋
 
 ## 🚀 About Me
-I am a dedicated professional with a passion for continuous learning and growth. Currently, I'm working as a remote web developer with Spacebar Solution and also doing an IT Support at Orbit TVET College, Mankwe Campus. With skills in Java, web development,Problem Solving, Troubleshootin, and database management, I'm committed to making a positive impact in every project I undertake.
+I was a dedicated professional with a passion for continuous learning and growth. I worked remotely as a web developer with Spacebar Solution. With skills in Java, HTML, CSS, web development, problem solving, troubleshooting hardware/software issues, networking (LAN/WAN, TCP/IP, DNS configuration, and database management, I was committed to making a positive impact in every project I undertook.
 
 ## 🎓 Education
 - **Kwaphayikeni High School**
@@ -11,14 +11,13 @@ I am a dedicated professional with a passion for continuous learning and growth.
   - Highest Grade: 12
 - **Tshwane University of Technology**
   - Diploma in Informatics
-  - Years: 2020 - 2024
+  - Years: 2025
 
 ## 💼 Work Experience
 - **Web Developer Intern (Remote)** - Spacebar Solution
   - Working on diverse web development projects, focusing on responsive and interactive web applications.
-
-- **IT Support Intern** - Orbit TVET College, Mankwe Campus
-  - Providing IT support as part of an internship program, assisting with technical issues and improving overall network performance.
+  - Participated in debugging, feature implementation, and UI enhancements.
+  - Used GitHub for version control and project collaboration.
 
 ## 🛠️ Skills
 - **Programming**: HTML, CSS, JavaScript
@@ -38,15 +37,19 @@ Here are some projects I’ve worked on:
 
 1. **Project Name** - *Onnetse Cake Corner Website*
    - [Onnetse's Website](https://www.onnetsecakescorner.co.za/)
-   - Skills Used: HTML, CSS, and JavaScript
+   - Skills Used: HTML, CSS, Bootstrap, JavaScript Libraries, User Interface (UI) Design, Contact Information Display, and User Interface (UI) Design.
 
-2. **Another Project** - *Website templates*
+2. **Project Name** - *Clean Kicks Sneakers Website*
+
+   - Skills Used: HTML, CSS, Bootstrap, JavaScript Libraries, User Interface (UI) Design, Contact Information Display, and User Interface (UI) Design.
+
+3. **Another Project** - *Website templates*
    - [Travel-Booking Template](https://sbongiseni-mavimbela.github.io/-Travel-Agency-Booking-)
    - [Tour Template](https://sbongiseni-mavimbela.github.io/Tour/)
    - [Destination-Platform Template](https://sbongiseni-mavimbela.github.io/Destination-Platform/)
-   - Skills Used: Java, CSS, and HTML
+   -Skills Used: HTML, CSS, Bootstrap, JavaScript Libraries, User Interface (UI) Design, Contact Information Display, User Interface (UI) Design, and Newsletter Integration.
 
 ## 📫 How to Reach Me 
-- [GitHub](https://github.com/Sbongiseni-Mavimbela)  
+- [Phone No:](082 384 3930)  
 - [Email](mailto:sbongisenismara@gmail.com)
 
