@@ -21,7 +21,7 @@ I'm a dedicated professional with a passion for continuous learning and growth. 
 
 ## 🛠️ Skills
 - **Programming**: 
-  -  HTML, CSS, Bootstrap, JavaScript Libraries
+  -  HTML, CSS, Bootstrap, JavaScript Libraries,SQL (Structured Query Language)
 - **Web Development**: 
   - Responsive Design, User Interface (UI) Design, Contact Information Display, and User Interface (UI) Design
 - **IT Support**:
