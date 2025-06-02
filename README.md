@@ -3,7 +3,7 @@
 # Hi, I'm Sibongiseni Mavimbela! 👋
 
 ## 🚀 About Me
-I was a dedicated professional with a passion for continuous learning and growth. I worked remotely as a web developer with Spacebar Solution. With skills in Java, HTML, CSS, web development, problem solving, troubleshooting hardware/software issues, networking (LAN/WAN, TCP/IP, DNS configuration, and database management, I was committed to making a positive impact in every project I undertook.
+I was a dedicated professional with a passion for continuous learning and growth. I worked remotely as a web developer with Spacebar Solution. With skills in Java, HTML, CSS, web development, problem solving, troubleshooting hardware/software issues, and database management, I was committed to making a positive impact in every project I undertook.
 
 ## 🎓 Education
 - **Kwaphayikeni High School**
@@ -36,20 +36,21 @@ I was a dedicated professional with a passion for continuous learning and growth
 Here are some projects I’ve worked on:
 
 1. **Project Name** - *Onnetse Cake Corner Website*
-   - [Onnetse's Website](https://www.onnetsecakescorner.co.za/)
+   - [Onnetse's Website](https://sbongiseni-mavimbela.github.io/Onnetse-Cake/)
    - Skills Used: HTML, CSS, Bootstrap, JavaScript Libraries, User Interface (UI) Design, Contact Information Display, and User Interface (UI) Design.
 
 2. **Project Name** - *Clean Kicks Sneakers Website*
-
+ - [Lunga's Website](https://sbongiseni-mavimbela.github.io/Lunga_Website/)
    - Skills Used: HTML, CSS, Bootstrap, JavaScript Libraries, User Interface (UI) Design, Contact Information Display, and User Interface (UI) Design.
 
 3. **Another Project** - *Website templates*
-   - [Travel-Booking Template](https://sbongiseni-mavimbela.github.io/-Travel-Agency-Booking-)
-   - [Tour Template](https://sbongiseni-mavimbela.github.io/Tour/)
-   - [Destination-Platform Template](https://sbongiseni-mavimbela.github.io/Destination-Platform/)
+   - [Hotel-Booking Template](https://sbongiseni-mavimbela.github.io/Hotel-Booking-Agence/)
+   - [Tour Travel Template](
+https://sbongiseni-mavimbela.github.io/Tour-Travel-Showcase/
+)
    -Skills Used: HTML, CSS, Bootstrap, JavaScript Libraries, User Interface (UI) Design, Contact Information Display, User Interface (UI) Design, and Newsletter Integration.
 
 ## 📫 How to Reach Me 
 - [Phone No:](082 384 3930)  
-- [Email](mailto:sbongisenismara@gmail.com)
+- [Email] (mailto:sbongisenismara@gmail.com)
 
