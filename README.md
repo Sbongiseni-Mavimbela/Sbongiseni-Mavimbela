@@ -3,7 +3,7 @@
 # Hi, I'm Sibongiseni Mavimbela! 👋
 
 ## 🚀 About Me
-I was a dedicated professional with a passion for continuous learning and growth. I worked remotely as a web developer with Spacebar Solution. With skills in Java, HTML, CSS, web development, problem solving, troubleshooting hardware/software issues, and database management, I was committed to making a positive impact in every project I undertook.
+I'm a dedicated professional with a passion for continuous learning and growth. I worked remotely as a web developer with Spacebar Solution. With skills in Java, HTML, CSS, web development, problem solving, troubleshooting hardware/software issues, and database management, I was committed to making a positive impact in every project I undertook.
 
 ## 🎓 Education
 - **Kwaphayikeni High School**
