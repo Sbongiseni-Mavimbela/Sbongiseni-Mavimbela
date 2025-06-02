@@ -45,9 +45,7 @@ Here are some projects I’ve worked on:
 
 3. **Another Project** - *Website templates*
    - [Hotel-Booking Template](https://sbongiseni-mavimbela.github.io/Hotel-Booking-Agence/)
-   - [Tour Travel Template](
-https://sbongiseni-mavimbela.github.io/Tour-Travel-Showcase/
-)
+   - [Tour Travel Template](https://sbongiseni-mavimbela.github.io/Tour-Travel-Showcase/)
    -Skills Used: HTML, CSS, Bootstrap, JavaScript Libraries, User Interface (UI) Design, Contact Information Display, User Interface (UI) Design, and Newsletter Integration.
 
 ## 📫 How to Reach Me 
