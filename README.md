@@ -11,13 +11,18 @@ I'm a dedicated professional with a passion for continuous learning and growth. 
   - Highest Grade: 12
 - **Tshwane University of Technology**
   - Diploma in Informatics
-  - Years: 2025
+  - Years: 2024
 
 ## 💼 Work Experience
 - **Web Developer Intern (Remote)** - Spacebar Solution
   - Working on diverse web development projects, focusing on responsive and interactive web applications.
   - Participated in debugging, feature implementation, and UI enhancements.
   - Used GitHub for version control and project collaboration.
+    
+- **IT Support Intern (Onsite)** - Orbit Tvet College (Mankwe Campus)
+  - Provided technical assistance to staff and students on hardware, software, and network issues.
+  - Performed system installations, updates, and troubleshooting on Windows-based machines.
+  - Maintained and managed college IT infrastructure including printers, projectors, and Ethernet networks.
 
 ## 🛠️ Skills
 - **Programming**: 
