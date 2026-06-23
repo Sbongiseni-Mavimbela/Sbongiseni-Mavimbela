@@ -11,7 +11,7 @@ I'm a dedicated professional with a passion for continuous learning and growth. 
   - Highest Grade: 12
 - **Tshwane University of Technology**
   - Diploma in Informatics
-  - Years: 2024
+  - Years: 2025
 
 ## 💼 Work Experience
 - **Web Developer Intern (Remote)** - Spacebar Solution
