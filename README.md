@@ -24,7 +24,10 @@ I'm a dedicated professional with a passion for continuous learning and growth. 
   - Performed system installations, updates, and troubleshooting on Windows-based machines.
   - Maintained and managed college IT infrastructure including printers, projectors, and Ethernet networks.
 
+**ICT Service Delivery Analyst Intern (Onsite)** - Transnet School of Rail (Esselenpark Campus)
+- Assisted in monitoring and maintaining IT services to ensure system uptime and service continuity.
 ## 🛠️ Skills
+
 - **Programming**: 
   -  HTML, CSS, Bootstrap, JavaScript Libraries, SQL (Structured Query Language)
 - **Web Development**: 
